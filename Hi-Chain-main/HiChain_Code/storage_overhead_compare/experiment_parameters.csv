@@ -1,0 +1,10 @@
+Parameter,Value
+Node_Count,50.0
+Block_Size_MB,1.0
+Storage_Limit_MB,10000.0
+Min_K_Value,7.0
+Avg_K_Value,19.979625
+Ref_Nodes_For_K_Scaling,50.0
+Nodes_Per_Shard,10.0
+Blocks_Recorded_Snapshots,9.0
+Last_Block_Count,8000.0

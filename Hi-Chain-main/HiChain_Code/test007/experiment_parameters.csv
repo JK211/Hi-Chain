@@ -1,0 +1,7 @@
+Parameter,Value
+Node_Count,50.0
+Block_Size_MB,1.0
+Storage_Limit_MB,1000.0
+Min_K_Value,37.0
+Avg_K_Value,44.0
+Max_Blocks_Simulated,100.0
